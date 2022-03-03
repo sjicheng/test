@@ -3,6 +3,9 @@ package com.jcsun.testgit;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * 这是一个spring boot项目
+ */
 @SpringBootApplication
 public class TestgitApplication {
 
